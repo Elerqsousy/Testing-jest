@@ -1,0 +1,28 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "watch": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elerqsousy/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elerqsousy/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/Elerqsousy/Testing-practice#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.4",
+    "jest": "^27.5.1"
+  }
+}
